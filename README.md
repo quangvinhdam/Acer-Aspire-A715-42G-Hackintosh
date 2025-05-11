@@ -1,4 +1,4 @@
-<h1 align="center">🍎 Hackintosh on Acer Aspire A715-42G</h1>
+<h1 align="center"> Hackintosh on Acer Aspire A715-42G</h1>
 
 <p align="center">
   A macOS experiment on an AMD Ryzen laptop powered by OpenCore.
