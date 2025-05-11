@@ -74,7 +74,3 @@
 - 🧰 **Corpnewt** – for USBToolBox & tools  
 - 👨‍💻 AMD Hackintosh Community – for ongoing support  
 
----
-
-> ⚠️ *This is an experimental Hackintosh on AMD hardware. Not suitable for production use.*  
-> 🔧 *Maintained by [YourNameHere]*  
