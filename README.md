@@ -29,7 +29,7 @@
 - macOS Boot (Monterey / Ventura with legacy patches)
 - Basic GPU Acceleration (experimental with AMDGPU kexts)
 - Audio (with layout-id via AppleALC)
-- USB 2.0 / 3.0 Ports (with USBMap.kext)
+- USB 2.0 / 3.0 Ports (with UTBMap.kext & USBToolbox.kext)
 - Ethernet (with RealtekRTL8111.kext)
 - Brightness & Volume Keys (with custom ACPI patches)
 - Touchpad (via VoodooI2C / ELAN support)
@@ -54,14 +54,14 @@
 - **macOS Version**: Monterey / Ventura  
 - **Kernel Patches**: AMD Vanilla Patches  
 - **Config Source**: Dortania AMD Guide  
-- **SSDTs**: Custom (SSDT-EC, SSDT-USBX, SSDT-PLUG)  
+- **SSDTs**: Extracted with SSDTime
 - **Kexts**:
   - `Lilu.kext`
   - `WhateverGreen.kext`
   - `AppleALC.kext`
   - `VirtualSMC.kext`
   - `VoodooI2C.kext`, `VoodooI2CHID.kext`
-  - `USBMap.kext`
+  - `UTBMap.kext`
   - `RealtekRTL8111.kext`
 
 ---
